@@ -3,6 +3,8 @@ import React, {Component} from 'react';
 export default class Survey extends Component{
     constructor(){
         super();
+        // console.log("data in servey component: ", this.props.dataToChild);
+        console.log("this is constructor of survey................");
     }
 
     render(){
