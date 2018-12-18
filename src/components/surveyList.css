@@ -1,7 +1,43 @@
 .suerveyListCOntainer{
+
     border-block-end: aqua;
+
     height: 100%;
+
     width: 100%;
+
     border-width: 2px;
-    background: red;
+
+    background: white;
+
+}
+
+
+
+.surveyCard{
+
+  height: 10%;
+
+  width: 10%;
+
+  color: blue;
+
+  border: 1px;
+
+  border-color: black;
+
+  border-style: solid;
+
+}
+
+
+
+#wrapper {
+
+    height: 100%;
+
+    width: 200px;
+
+    overflow: auto;
+
 }
